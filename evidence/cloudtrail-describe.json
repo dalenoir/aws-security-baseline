@@ -1,0 +1,16 @@
+{
+    "trailList": [
+        {
+            "Name": "security-baseline-trail",
+            "S3BucketName": "la-dale-security-logs-1770491006",
+            "IncludeGlobalServiceEvents": true,
+            "IsMultiRegionTrail": true,
+            "HomeRegion": "us-east-1",
+            "TrailARN": "arn:aws:cloudtrail:us-east-1:220346915567:trail/security-baseline-trail",
+            "LogFileValidationEnabled": true,
+            "HasCustomEventSelectors": false,
+            "HasInsightSelectors": false,
+            "IsOrganizationTrail": false
+        }
+    ]
+}
